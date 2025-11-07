@@ -22,7 +22,7 @@ To analyse remote vs onsite/hybrid work patterns, identify key features correlat
 6. Insights & Recommendations  
 
 ## 📈 Key Results  
-- Best performing model: **[ModelName]** with **Accuracy: XX%**, **ROC AUC: XX**  
+- Best performing model: **[Xgboost]** with good Accuracy  
 - Top predictive features: Work-location (remote/hybrid), Number of virtual meetings, Work-life balance rating, Company support for remote work  
 - Insights: Remote workers with inadequate support show significantly higher risk of mental-health issues  
 
