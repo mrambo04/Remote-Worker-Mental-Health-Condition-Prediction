@@ -18,7 +18,7 @@ To analyse remote vs onsite/hybrid work patterns, identify key features correlat
 3. Feature engineering (e.g., hours worked, virtual meetings, work-life balance)  
 4. Model building (Logistic Regression / Random Forest / XGBoost)  
 5. Evaluation (Accuracy, Precision, Recall, ROC AUC)  
-6. Insights & Recommendations  
+6. Insights & Recommendations
 
 ## 📈 Key Results  
 - Best performing model: **[Xgboost]** with good Accuracy  
