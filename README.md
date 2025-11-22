@@ -25,7 +25,7 @@ To analyse remote vs onsite/hybrid work patterns, identify key features correlat
 - Top predictive features: Work-location (remote/hybrid), Number of virtual meetings, Work-life balance rating, Company support for remote work  
 - Insights: Remote workers with inadequate support show significantly higher risk of mental-health issues  
 
-## 📂 Dataset  
+## 📂 Dataset
  (Company internal data)  
 
 ## 🌐 Real-world Application  
