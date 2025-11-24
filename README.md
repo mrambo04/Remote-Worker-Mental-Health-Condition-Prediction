@@ -11,7 +11,7 @@ To analyse remote vs onsite/hybrid work patterns, identify key features correlat
 - Matplotlib, Seaborn   
 - Scikit-Learn
 - Jupyter Notebook
-
+ 
 ## 🧮 Approach  
 1. Data ingestion & cleaning  
 2. Exploratory Data Analysis (EDA) to uncover patterns between work location, workload, support systems and mental-health condition  
