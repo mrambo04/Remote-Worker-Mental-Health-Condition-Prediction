@@ -26,7 +26,7 @@ To analyse remote vs onsite/hybrid work patterns, identify key features correlat
 - Insights: Remote workers with inadequate support show significantly higher risk of mental-health issues  
 
 ## 📂 Dataset
- (Company internal data)  
+ (Company internal data)   
 
 ## 🌐 Real-world Application  
 This model can help HR teams and remote-work strategists to:  
