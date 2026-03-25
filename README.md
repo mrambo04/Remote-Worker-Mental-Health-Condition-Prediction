@@ -12,7 +12,7 @@ To analyse remote vs onsite/hybrid work patterns, identify key features correlat
 - Scikit-Learn       
 - Jupyter Notebook  
   
-## 🧮 Approach    
+## 🧮 Approach     
 1. Data ingestion & cleaning   
 2. Exploratory Data Analysis (EDA) to uncover patterns between work location, workload, support systems and mental-health condition  
 3. Feature engineering (e.g., hours worked, virtual meetings, work-life balance)  
