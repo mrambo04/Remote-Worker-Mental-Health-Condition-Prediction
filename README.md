@@ -6,7 +6,7 @@ This project investigates how remote-working conditions impact mental health and
 To analyse remote vs onsite/hybrid work patterns, identify key features correlated with mental health issues, and build a predictive model that organisations can use for early intervention in remote-work setups.   
     
 ## 🧰 Tools & Technologies          
-- Python              
+- Python               
 - Pandas, NumPy               
 - Matplotlib, Seaborn            
 - Scikit-Learn           
