@@ -19,7 +19,7 @@ To analyse remote vs onsite/hybrid work patterns, identify key features correlat
 4. Model building (Logistic Regression / Random Forest / XGBoost)  
 5. Evaluation (Accuracy, Precision, Recall, ROC AUC)  
 6. Insights & Recommendations
-
+ 
 ## 📈 Key Results  
 - Best performing model: **[Xgboost]** with good Accuracy   
 - Top predictive features: Work-location (remote/hybrid), Number of virtual meetings, Work-life balance rating, Company support for remote work  
