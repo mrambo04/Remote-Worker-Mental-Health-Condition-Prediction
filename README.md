@@ -10,7 +10,7 @@ To analyse remote vs onsite/hybrid work patterns, identify key features correlat
 - Pandas, NumPy                    
 - Matplotlib, Seaborn              
 - Scikit-Learn                 
-- Jupyter Notebook           
+- Jupyter Notebook            
      
 ## 🧮 Approach     
 1. Data ingestion & cleaning   
